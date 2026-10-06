@@ -4,7 +4,7 @@
 
 I like turning messy, real-world problems into software that runs unattended and safely: bots that trade with real money, voice AI that answers business calls, and the backends, dashboards and tests that keep them trustworthy.
 
-📍 Bangladesh · 🌐 [calldesk.app](https://calldesk.app) · 🐦 [@RafiulHasanCho3](https://x.com/RafiulHasanCho3)
+📍 Bangladesh · 💼 [LinkedIn](https://www.linkedin.com/in/hrafiul) · 🌐 [calldesk.app](https://calldesk.app)
 
 ---
 
@@ -40,4 +40,4 @@ I like turning messy, real-world problems into software that runs unattended and
 
 ## 🤝 Let's work together
 
-I'm open to **senior full-stack, backend and AI-automation roles** and to freelance projects. The fastest way to reach me is a DM on [X / Twitter](https://x.com/RafiulHasanCho3).
+I'm open to **senior full-stack, backend and AI-automation roles** and to freelance projects. The fastest way to reach me is a message on [LinkedIn](https://www.linkedin.com/in/hrafiul).
